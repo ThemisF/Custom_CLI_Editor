@@ -58,6 +58,7 @@
 ## 📥 Installation
 
     git clone https://github.com/ThemisF/Custom_CLI_Editor.git  
+    
 ---
 
 ## 💻 Usage
@@ -78,7 +79,7 @@ Prefixes the current line with `*`:
    *second line  
     third line
 
----
+
 
 ## 📖 Command Reference
 
