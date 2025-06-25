@@ -118,7 +118,7 @@ Prefixes the current line with `*`:
 <summary>View Demo</summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_Big.png" alt="CLI Demo" width="83%"> <img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_1.png" alt="Example 1" width="25%"><img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_2.png" alt="Example 2" width="26%"><img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_3.png" alt="CLI Demo" width="32%"></p>
+  <img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_Big.png" alt="CLI Demo" width="83%"> <img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_1.png" alt="Example 1" width="25%"><img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_2.png" alt="Example 2" width="25.9%"><img src="https://raw.githubusercontent.com/ThemisF/Custom_CLI_Editor/main/images/Example_3.png" alt="CLI Demo" width="32%"></p>
 
 </details>
 
