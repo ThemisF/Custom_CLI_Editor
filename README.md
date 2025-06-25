@@ -78,7 +78,6 @@ Prefixes the current line with `*`:
    first line  
    *second line  
     third line
-
 ---
 
 ## 📖 Command Reference
